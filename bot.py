@@ -27,7 +27,7 @@ async def handle_join_request(update, context):
     try:
         await context.bot.send_photo(
             chat_id=chat_id,
-            photo="https://i.imgur.com/REPLACE_THIS.jpg",
+            https://i.ibb.co/Qj98sm31/photo-2026-05-15-22-03-17.jpg
             caption=WELCOME_MESSAGE,
             reply_markup=reply_markup
         )
