@@ -3,7 +3,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, ChatJoinRequestHandler
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(name)
+logger = logging.getLogger(__name__)
 
 BOT_TOKEN = "8614104917:AAGLfy0Xut-B-g6BW95C8-mv7eHFap3JEoA"
 CHANNEL_ID = -1001971781694
