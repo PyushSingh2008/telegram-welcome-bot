@@ -6,8 +6,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(name)
 
 BOT_TOKEN = "8614104917:AAGLfy0Xut-B-g6BW95C8-mv7eHFap3JEoA"
-CHANNEL_ID = -1001971781694
-
+CHANNEL_ID = int("-1001971781694")
 WELCOME_MESSAGE = """Qoutex Compounding series group click this link 🔗 👇
 
 https://t.me/+38IXH_QUK6EyMWY1
