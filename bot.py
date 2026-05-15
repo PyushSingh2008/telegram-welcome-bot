@@ -31,7 +31,7 @@ async def handle_join_request(update, context):
             reply_markup=reply_markup
         )
         logger.info(f"Welcome sent to {user.first_name}")
-        await update.chat_join_request.approve()
+        # await update.chat_join_request.approve()
     except Exception as e:
         logger.error(f"Error: {e}")
 
