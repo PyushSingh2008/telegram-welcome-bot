@@ -41,5 +41,5 @@ def main():
     logger.info("Bot started 24/7!")
     app.run_polling(drop_pending_updates=True)
 
-if name == "__main__":
+if __name__ == "__main__":
     main()
