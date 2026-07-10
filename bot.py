@@ -11,8 +11,8 @@ IMAGE_URL = "https://i.ibb.co/Qj98sm31/photo-2026-05-15-22-03-17.jpg"
 
 WELCOME_MESSAGE = (
     "Qoutex Compounding series group click this link 🔗 👇\n\n"
-    "https://t.me/+38IXH_QUK6EyMWY1\n"
-    "https://t.me/+38IXH_QUK6EyMWY1\n\n"
+    "https://t.me/+A567fedznEdmN2Nl\n"
+    "https://t.me/+A567fedznEdmN2Nl\n\n"
     "🔥 Just 2 Days Challenge! 🔥\n"
     "Turn $10 → $500 💸\n"
     "Limited slots — Join Fast & Start Earning Now! 🚀"
